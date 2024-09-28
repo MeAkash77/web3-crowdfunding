@@ -112,7 +112,7 @@ Overall, this project provided invaluable insights into Web3, blockchain technol
 
 
 ## 🚀 About Me
-Hi there! I am Sai Vamsi, a final year computer science undergraduate with specialization in Artificial Intelligence at Vel Tech University, Chennai. I have a strong passion for software development, and Artificial Intelligence.
+Hi there! I am akash, a final year computer science undergraduate with specialization in full stack development at kiit University, Bhubneshwar. I have a strong passion for software development, and Artificial Intelligence.
 
 I'm proficient in C, C++, Java, and Python programming languages. I also have expertise in Data Structures and Algorithms. Besides, I am a Full-stack Web Developer who is familiar with front-end development technologies like HTML, CSS, JavaScript, and React, and also back-end development with Node.js, Express.js, and MongoDB.
 
